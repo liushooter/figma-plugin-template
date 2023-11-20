@@ -1,14 +1,14 @@
 {
-  "name": "abc",
+  "name": "figma-plugin-template",
   "version": "1.0.0",
-  "description": "Your Figma Plugin",
+  "description": "Figma Plugin",
   "main": "code.js",
   "scripts": {
     "build": "tsc -p tsconfig.json",
     "watch": "npm run build -- --watch"
   },
-  "author": "",
-  "license": "",
+  "author": "shooter",
+  "license": "BSD 3-Clause",
   "devDependencies": {
     "@figma/plugin-typings": "^1.81.0",
     "typescript": "^5.2.2"
