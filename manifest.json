@@ -1,6 +1,6 @@
 {
   "name": "figma-plugin-template",
-  "id": "1308403652726517379",
+  "id": "1300000000000000000",
   "api": "1.0.0",
   "main": "code.js",
   "capabilities": [],
@@ -8,6 +8,7 @@
   "editorType": [
     "figma"
   ],
+  "ui": "ui.html",
   "networkAccess": {
     "allowedDomains": [
       "none"
